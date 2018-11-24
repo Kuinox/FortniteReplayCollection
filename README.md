@@ -5,7 +5,7 @@ This is an initiative to collect Fortnite replays in order to track changes over
 ## Contribute your replays
 * Add your replay files to the _upload folder
 * Run the `ReplayRenameToHash` script
-```bash
+```powershell
 .\ReplayRenameToHash.ps1
 ```
 * Make a Pull Request!
